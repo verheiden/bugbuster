@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colorfly</string>
+    <string name="app_title">Colorfly</string>
+    <string name="totalMiss">พลาดมากที่สุด</string>
+    <string name="immortal">ชนะไปที่ระดับถัดไป</string>
+    <string name="level">ระดับเกม</string>
+    <string name="lost">เกมหายไป</string>
+    <string name="musicon">เปิดเพลง</string>
+    <string name="need">สีผิด</string>
+    <string name="nextLevel">"ระดับถัดไป "</string>
+    <string name="play">เล่น</string>
+    <string name="reset">ระดับ 1</string>
+    <string name="score">รวม Rainbowflies</string>
+    <string name="setWallpaper">ตั้งค่าวอลเปเปอร์</string>
+    <string name="share">แบ่งปัน</string>
+    <string name="slice">แตะที่รวดเร็วง</string>
+    <string name="soundon">เปิดเสียง</string>
+    <string name="switch_to_camera">กล้อง</string>
+    <string name="tapCacoon">แตะที่</string>
+    <string name="time">เวลา:</string>
+    <string name="winner">ชนะไปที่ระดับถัดไป</string>
+    <string name="action_grid">ตาราง</string>
+    <string name="action_menu">"ตัวเลือก "</string>
+    <string name="art">ศิลปะ:</string>
+    <string name="cacoon">รังไหมดิบ</string>
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="allowed">อนุญาตทั้งหมด</string>
+    <string name="evil">ความชั่วร้ายผีเสื้อ</string>
+    <string name="goal">"เป้าหมาย: เพิ่ม "</string>
+    <string name="gridHeader">ไปที่ดอกไม้เลื่อน!</string>
+    <string name="header">เลื่อน / เลือก</string>
+    <string name="history">ประวัติ</string>
+    <string name="action_camera">จี้</string>
+    <string name="timeOut">หมดเวลา</string>
+    <string name="game">เกม</string>
+    <string name="cycle">รอบ</string>
+    <string-array name="rainbow_colors">
+        <item>สีแดง</item>
+        <item>ส้ม</item>
+        <item>สีเหลือง</item>
+        <item>เขียว</item>
+        <item>สีน้ำเงิน</item>
+        <item>คราม</item>
+        <item>ม่วง</item>
+    </string-array>
+</resources>

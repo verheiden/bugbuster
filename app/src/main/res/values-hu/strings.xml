@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colorfly</string>
+    <string name="app_title">Colorfly</string>
+    <string name="totalMiss">Maximális kihagyás</string>
+    <string name="action_camera">fényképezőgép</string>
+    <string name="action_grid">rács</string>
+    <string name="action_menu">Options</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="allowed">Összes engedélyezett</string>
+    <string name="art">típus:</string>
+    <string name="cacoon">selyemgubó</string>
+    <string name="evil">Evil Butterfly</string>
+    <string name="goal">Cél: Raise</string>
+    <string name="gridHeader">Ide egy tekercs virág!</string>
+    <string name="header">Scroll / Select</string>
+    <string name="history">történelem</string>
+    <string name="immortal">Rainbow pillangók</string>
+    <string name="level">játék szinten</string>
+    <string name="lost">Game elveszett</string>
+    <string name="musicon">Music On</string>
+    <string name="need">Rossz szín</string>
+    <string name="nextLevel">Következő szint</string>
+    <string name="play">játszik</string>
+    <string name="reset">Level 1</string>
+    <string name="score">Összesen Rainbow Legyek</string>
+    <string name="setWallpaper">Háttérkép beállítása</string>
+    <string name="share">részvény</string>
+    <string name="slice">Gyors érintés</string>
+    <string name="soundon">hang ki-</string>
+    <string name="switch_to_camera">fényképezőgép</string>
+    <string name="tapCacoon">érintse meg a</string>
+    <string name="time">idő:</string>
+    <string name="timeOut">időtúllépés</string>
+    <string name="game">Játék</string>
+    <string name="cycle">Ciklus</string>
+    <string-array name="rainbow_colors">
+        <item>Piros</item>
+        <item>narancs</item>
+        <item>Amarillo</item>
+        <item>Green</item>
+        <item>Kék</item>
+        <item>Indigó</item>
+        <item>Ibolya</item>
+    </string-array><string name="winner">Sorozatban a Next Level</string>
+</resources>

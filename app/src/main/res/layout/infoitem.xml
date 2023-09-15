@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+    <ImageView
+            android:id="@+id/definition"
+            android:layout_width="500dp"
+            android:layout_height="420dp"
+            android:layout_centerHorizontal="true"/>
+    <TextView
+        android:id="@+id/haiku"
+        android:layout_below="@id/definition"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="40dp"
+        android:gravity="center"
+        android:textStyle="italic"
+        android:textColor="@color/ZenAzure"
+        android:textSize="20sp" />
+</RelativeLayout>

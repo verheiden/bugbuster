@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="apps.yuzaco.com.bugbuster.Screen">
+
+    <item android:id="@+id/action_overflow"
+        android:icon="@drawable/blue_action_overflow"
+        android:title="@string/action_menu"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/soundOn"
+                  android:title="@string/soundon"
+                  android:checkable="true"
+                  android:checked="true"
+                  android:enabled="true"
+                  android:visible="true"
+                 app:showAsAction="never" />
+            <item android:id="@+id/resetOption"
+                  android:orderInCategory="1"
+                android:title="@string/reset"
+                  app:showAsAction="never" />
+            <item android:id="@+id/musicOn"
+                  android:title="@string/musicon"
+                  android:checkable="true"
+                  android:checked="true"
+                  android:enabled="true"
+                  android:visible="true"
+                  app:showAsAction="never" />
+        </menu>
+    </item>
+    </menu>

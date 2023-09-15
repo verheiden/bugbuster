@@ -1,0 +1,49 @@
+plugins {
+    id 'com.android.application'
+}
+android {
+    namespace 'apps.yuzaco.com.bugbuster'
+    compileSdk 33
+    defaultConfig {
+        applicationId 'apps.yuzaco.com.bugbuster'
+        minSdkVersion 25
+        //noinspection ExpiredTargetSdkVersion
+        targetSdk 33
+        buildToolsVersion "33.0.1"
+        versionCode  2
+        versionName "2.0"
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+        resourceConfigurations += ["en","de", "es", "fr", "hu", "ja", "ko", "nl", "no", "pt", "ru", "sv", "th"]
+    }
+    buildTypes {
+        getByName("release") {
+            minifyEnabled true
+            proguardFiles(getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro")
+            debuggable false
+        }
+
+        getByName("debug") {
+            debuggable  true
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE-FIREBASE.txt'
+        exclude 'META_INF/NOTICE'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    //noinspection GradleCompatible
+    implementation 'androidx.appcompat:appcompat:1.6.0'
+    implementation 'androidx.core:core:1.10.1'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    implementation(platform("org.jetbrains.kotlin:kotlin-bom:1.8.0"))
+}

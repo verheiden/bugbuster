@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colorfly</string>
+    <string name="app_title">Colorfly</string>
+    <string name="totalMiss">Maximale miss</string>
+    <string name="action_grid">rooster</string>
+    <string name="action_menu">opties</string>
+    <string name="action_settings">instellingen</string>
+    <string name="allowed">Totaal toegestaan</string>
+    <string name="art">"Art : "</string>
+    <string name="cacoon">cocon</string>
+    <string name="evil">Evil Butterfly</string>
+    <string name="goal">Objetivo: Aumentar</string>
+    <string name="gridHeader">Ga naar een scroll bloem!</string>
+    <string name="header">Scroll / Select</string>
+    <string name="history">Geschiedenis</string>
+    <string name="action_camera">Camera</string>
+    <string name="immortal">Vlinders van de regenboog</string>
+    <string name="level">Game Level</string>
+    <string name="lost">Wedstrijd Verloren</string>
+    <string name="musicon">"Muziek aan "</string>
+    <string name="need">verkeerde kleur</string>
+    <string name="nextLevel">"Volgende niveau "</string>
+    <string name="play">Spelen</string>
+    <string name="reset">Niveau 1</string>
+    <string name="score">Totaal Rainbowflys</string>
+    <string name="setWallpaper">"Stel in als achtergrond "</string>
+    <string name="share">Delen</string>
+    <string name="slice">Tik snel</string>
+    <string name="soundon">"Geluid aan "</string>
+    <string name="tapCacoon">"Druk op "</string>
+    <string name="time">tijd:</string>
+    <string name="winner">Winnen om Next Level</string>
+    <string name="switch_to_camera">Camera</string>
+    <string name="timeOut">time-out</string>
+    <string name="game">Spel</string>
+    <string name="cycle">Fiets</string>
+    <string-array name="rainbow_colors">
+        <item>Rood</item>
+        <item>Oranje</item>
+        <item>Geel</item>
+        <item>Groen</item>
+        <item>Blauw</item>
+        <item>Indigo</item>
+        <item>Violet</item>
+    </string-array>
+</resources>

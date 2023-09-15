@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BugBuster</string>
+    <string name="app_title">BugBuster</string>
+    <string name="totalMiss">Max Miss</string>
+    <string name="header">Scroll/Select</string>
+    <string name="gridHeader">Go to a scroll flower!</string>
+    <string name="cacoon">cocoon</string>
+    <string name="score">Total Rainbowflys  </string>
+    <string name="share">Share</string>
+    <string name="need">Wrong Color</string>
+    <string name="evil">Evilfly</string>
+    <string name="action_grid">Grid</string>
+    <string name="action_settings">Settings</string>
+    <string name="history">History</string>
+    <string name="action_camera">Camera</string>A
+    <string name="play">     Play</string>
+    <string name="art">Art : </string>
+    <string name="time">time </string>
+    <string name="slice">Touch</string>
+    <string name="setWallpaper">Set Wallpaper</string>
+    <string name="allowed">Max  </string>
+    <string name="winner">Win Rainbowflys  </string>
+    <string name="nextLevel">Next Level</string>
+    <string name="level">Game Level</string>
+    <string name="game">Game</string>
+    <string name="cycle">Cycle</string>
+    <string name="lost">Lost </string>
+    <string name="immortal">Rainbow Butterflys</string>
+    <string name="reset">Level to 1</string>
+    <string name="action_menu">Options</string>
+    <string name="goal">Target Rainbows</string>
+    <string name="tapCacoon">Tap the </string>
+    <string name="timeOut"> Time out</string>
+    <string-array name="rainbow_colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Indigo</item>
+        <item>Violet</item>
+    </string-array>
+    <string name="musicon">Music On</string>
+    <string name="soundon">Sound On</string>
+    <string name="switch_to_camera">snapshut</string>
+</resources>

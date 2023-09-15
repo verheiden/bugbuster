@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colorfly</string>
+    <string name="app_title">Colorfly</string>
+    <string name="totalMiss">Max fröken</string>
+    <string name="action_camera">kamera</string>
+    <string name="action_grid">Grid</string>
+    <string name="action_menu">alternativ</string>
+    <string name="action_settings">inställningar</string>
+    <string name="allowed">total tillåten</string>
+    <string name="art">Typ:</string>
+    <string name="cacoon">kokong</string>
+    <string name="evil">Evil fjäril</string>
+    <string name="goal">Mål: Heve</string>
+    <string name="gridHeader">Gå till en rullnings blomma!</string>
+    <string name="header">Bläddra / Select</string>
+    <string name="history">Historik</string>
+    <string name="immortal">Rainbow Butterflies</string>
+    <string name="level">spelnivå</string>
+    <string name="lost">match Förlorad</string>
+    <string name="musicon">Music On</string>
+    <string name="need">fel färg</string>
+    <string name="nextLevel">"Neste nivå "</string>
+    <string name="play">spela</string>
+    <string name="reset">Nivå 1</string>
+    <string name="score">Totalt Rainbowflies</string>
+    <string name="setWallpaper">Ställ Bakgrund</string>
+    <string name="share">del</string>
+    <string name="slice">Tryck snabbt</string>
+    <string name="soundon">ljud på</string>
+    <string name="switch_to_camera">kamera</string>
+    <string name="tapCacoon">Tryck på</string>
+    <string name="time">tid:</string>
+    <string name="winner">Vinn till nästa nivå</string>
+    <string name="timeOut">temps libre</string>
+    <string name="game">spel</string>
+    <string name="cycle">Cykel</string>
+    <string-array name="rainbow_colors">
+        <item>Röd</item>
+        <item>Orange</item>
+        <item>Gul</item>
+        <item>Grön</item>
+        <item>Blå</item>
+        <item>Indigo</item>
+        <item>Violett</item>
+    </string-array>
+</resources>

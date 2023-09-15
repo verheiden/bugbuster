@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colorfly</string>
+    <string name="app_title">Colorfly</string>
+    <string name="totalMiss">Maximales Fräulein</string>
+    <string name="immortal">Gewinne zum nächsten Level</string>
+    <string name="level">Spielniveau</string>
+    <string name="lost">Verloren</string>
+    <string name="musicon">"Musik"</string>
+    <string name="need">Erziehen</string>
+    <string name="nextLevel">Nächste Ebene</string>
+    <string name="play">Spielen</string>
+    <string name="reset">Stufe zu 1</string>
+    <string name="score">Regenbogenfliegen</string>
+    <string name="setWallpaper">Hintergrundbild festlegen</string>
+    <string name="share">"Aktie "</string>
+    <string name="slice">klopfen</string>
+    <string name="soundon">"Ton an "</string>
+    <string name="switch_to_camera">Kamera</string>
+    <string name="tapCacoon">"Tippen Sie auf die "</string>
+    <string name="time">"Zeit"</string>
+    <string name="winner">Gewinne zum nächsten Level</string>
+    <string name="action_camera">Kamera</string>
+    <string name="action_grid">Gitter</string>
+    <string name="action_menu">Optionen</string>
+    <string name="art">"Kunst : "</string>
+    <string name="cacoon">Kokon</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="allowed">Insgesamt erlaubt</string>
+    <string name="evil">Schmetterling</string>
+    <string name="goal">Ziel</string>
+    <string name="gridHeader">Go to a scroll flower!</string>
+    <string name="header">Scrollen / Auswählen</string>
+    <string name="history">Geschichte</string>
+    <string name="timeOut">Auszeit</string>
+    <string name="game">Spiel</string>
+    <string name="cycle">Zyklus</string>
+    <string-array name="rainbow_colors">
+        <item>Rot</item>
+        <item>Orange</item>
+        <item>Gelb</item>
+        <item>Grün</item>
+        <item>Bleu</item>
+        <item>Indigo</item>
+        <item>Violet</item>
+    </string-array>
+</resources>

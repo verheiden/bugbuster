@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colorfly</string>
+    <string name="app_title">Colorfly</string>
+    <string name="totalMiss">Mlle maximale</string>
+    <string name="level">Niveau</string>
+    <string name="immortal">Papillons arc-en-ciel</string>
+    <string name="lost">Game Lost</string>
+    <string name="musicon">"Musique allumée"</string>
+    <string name="need">"Mauvaise couleur"</string>
+    <string name="nextLevel">"Niveau suivant "</string>
+    <string name="play">"Jouer "</string>
+    <string name="reset">Niveau à 1</string>
+    <string name="score">Total Rainbowflies</string>
+    <string name="setWallpaper">"Définir le papier peint "</string>
+    <string name="share">"Partager "</string>
+    <string name="slice">Robinet rapide</string>
+    <string name="soundon">Sound On</string>
+    <string name="switch_to_camera">Camera</string>
+    <string name="tapCacoon">Appuyez sur le</string>
+    <string name="time">Temps</string>
+    <string name="winner">Gagner au niveau suivant</string>
+    <string name="action_grid">"réseau "</string>
+    <string name="action_menu">Options</string>
+    <string name="art">"Art : "</string>
+    <string name="cacoon">cocon</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="allowed">Total autorisé</string>
+    <string name="evil">Papillon maléfique</string>
+    <string name="goal">Objectif: Relever</string>
+    <string name="gridHeader">Aller à une fleur de défilement!</string>
+    <string name="header">Faites défiler / Sélectionnez</string>
+    <string name="action_camera">Camera</string>
+    <string name="history">"Histoire "</string>
+    <string name="timeOut">temps libre</string>
+    <string name="game">Game</string>
+    <string name="cycle">Cycle</string>
+    <string-array name="rainbow_colors">
+        <item>rouge</item>
+        <item>Orange</item>
+        <item>Jaune</item>
+        <item>vert</item>
+        <item>Bleu</item>
+        <item>Indigo</item>
+        <item>Violet</item>
+    </string-array>
+</resources>

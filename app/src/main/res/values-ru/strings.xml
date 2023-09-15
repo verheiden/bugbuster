@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colorfly</string>
+    <string name="app_title">Бабочка самурая</string>
+    <string name="totalMiss">Максимальная мисс</string>
+    <string name="level">Уровень игры</string>
+    <string name="lost">Потеря игры</string>
+    <string name="musicon">Музыка вкл.</string>
+    <string name="need">не тот цвет</string>
+    <string name="immortal">Радужные бабочки</string>
+    <string name="nextLevel">Следующий уровень</string>
+    <string name="play">"Играть "</string>
+    <string name="reset">Уровень 1</string>
+    <string name="score">Всего Rainbowflies</string>
+    <string name="setWallpaper">"Установка обоев "</string>
+    <string name="share">"Поделиться "</string>
+    <string name="slice">Быстрое нажатие</string>
+    <string name="soundon">"Звучать на "</string>
+    <string name="switch_to_camera">Камера</string>
+    <string name="tapCacoon">Нажмите</string>
+    <string name="time">Время:</string>
+    <string name="winner">Победа на следующем уровне</string>
+    <string name="action_grid">Сетка</string>
+    <string name="action_menu">"Опции "</string>
+    <string name="art">"Искусство : "</string>
+    <string name="cacoon">кокон</string>
+    <string name="action_settings">Настройки</string>
+    <string name="allowed">Всего разрешено</string>
+    <string name="evil">Зловещая бабочка</string>
+    <string name="goal">Цель: повышение</string>
+    <string name="gridHeader">Пойдите в цветок свитка!</string>
+    <string name="header">Прокрутка / выбор</string>
+    <string name="history">История компании</string>
+    <string name="action_camera">Энка</string>
+    <string name="timeOut">Таймаут</string>
+    <string name="game">Игра</string>
+    <string name="cycle">Цикл</string>
+    <string-array name="rainbow_colors">
+        <item>Красный</item>
+        <item>оранжевый</item>
+        <item>ЖЕЛТЫЙ</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+        <item>Индиго</item>
+        <item>Фиолетовый</item>
+    </string-array>
+</resources>

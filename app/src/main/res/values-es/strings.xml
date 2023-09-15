@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colorfly</string>
+    <string name="app_title">Colorfly</string>
+    <string name="totalMiss">máxima señorita</string>
+    <string name="action_camera">cámara</string>
+    <string name="action_grid">cuadrícula</string>
+    <string name="action_menu">Opciones</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="allowed">Total permitido</string>
+    <string name="art">"Art : "</string>
+    <string name="cacoon">capullo</string>
+    <string name="evil">mariposa</string>
+    <string name="goal">Objetivo: Aumentar</string>
+    <string name="gridHeader">Ir a una flor de desplazamiento!</string>
+    <string name="header">Desplazar / Seleccionar</string>
+    <string name="history">Historia</string>
+    <string name="immortal">Mariposas del arco iris</string>
+    <string name="level">Nivel del juego</string>
+    <string name="lost">Juego perdido</string>
+    <string name="musicon">"Música encendida "</string>
+    <string name="need">Aumento</string>
+    <string name="nextLevel">"Siguiente nivel "</string>
+    <string name="play">Jugar</string>
+    <string name="reset">Nivel 1</string>
+    <string name="score">Total Regenbogenfliegen</string>
+    <string name="setWallpaper">"Establecer fondo de pantalla "</string>
+    <string name="share">Compartir</string>
+    <string name="slice">Toque rápido</string>
+    <string name="soundon">"Sonido encendido "</string>
+    <string name="tapCacoon">Toque en el</string>
+    <string name="time">"Hora : "</string>
+    <string name="winner">Gana al siguiente nivel</string>
+    <string name="timeOut">el tiempo de espera</string>
+    <string name="game">Juego</string>
+    <string name="cycle">Ciclo</string>
+    <string-array name="rainbow_colors">
+        <item>rojo</item>
+        <item>Orange</item>
+        <item>Amarillo</item>
+        <item>Green</item>
+        <item>Azul</item>
+        <item>Indigo</item>
+        <item>Violeta</item>
+    </string-array><string name="switch_to_camera">Camera</string>
+</resources>
